@@ -14,4 +14,4 @@
       command: docker build -t calculatorv1 .
       
     - name: run container from image
-      command: docker run -d --name calculator-app -p 3000:8000 calculatorv1
+      command: docker run -d --name calculator-app -p 3000:3000 calculatorv1
