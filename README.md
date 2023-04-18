@@ -3,7 +3,7 @@
 
 ## Development setup
 
-1. Clone the proyect
+1. Clone the project
 
 ```bash
 git clone https://github.com/Fadykolta/WebApp_Calculator.git ; cd flask-calculator
